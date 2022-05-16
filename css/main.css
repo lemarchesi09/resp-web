@@ -1,7 +1,8 @@
 :root{
     --background-color: #ffffff;
     --primary-color: black;
-    --highlight-color: #FF8DAC;
+    /* --highlight-color: rgba(26,124,21,255); */ /*----verde oscuro */
+    --highlight-color: rgba(103,174,20,255); /*----verde claro */
 }
 
 *{
